@@ -46,7 +46,11 @@
       margin-top: 0;
     }
   }
-  
+  .project-img {
+      width: 275px;
+      height: 275px;
+      margin: 0 auto 2rem;
+    }
   @media screen and (max-width: 600px) {
     #contact,
     footer {
@@ -91,6 +95,11 @@
       height: 46vw;
       justify-content: center;
     }
+       .project-img {
+      width: auto;
+      height: 46vw;
+      justify-content: center;
+       }
     .section__text__p2 {
       font-size: 1.25rem;
     }
