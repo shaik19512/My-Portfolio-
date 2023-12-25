@@ -265,6 +265,7 @@ section {
 
 #about {
   position: relative;
+  flex-direction: column;
 }
 
 .about-containers {
